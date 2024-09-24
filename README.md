@@ -2,7 +2,7 @@
 👀 I’m interested in Python, Java, C++, Android, and Apple Development
 🌱 I’m currently developing a startup social network called Dracon
 💞️ I’m looking to collaborate on innovative tech projects and startups
-📫 How to reach me: LinkedIn
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hryhorii-struk-663161302/)
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'm passionate about creating seamless user experiences through technology!
 
